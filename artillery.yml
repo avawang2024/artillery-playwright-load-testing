@@ -1,0 +1,16 @@
+config:
+  target: https://homesforhomes.payments2us.com/donate
+  engines:
+    playwright: {}
+  processor: "./tests/artillery/donation.js"
+  phases:
+  - duration: 60     
+    arrivalRate: 10
+    maxVusers: 15
+
+scenarios:
+  - engine: playwright
+    testFunction: "artilleryScript"
+
+
+

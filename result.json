@@ -1,0 +1,446 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.0": 1,
+      "vusers.created": 1,
+      "browser.page.codes.200": 130,
+      "browser.http_requests": 134,
+      "browser.page.codes.401": 3,
+      "browser.page.codes.302": 1,
+      "vusers.failed": 0,
+      "vusers.completed": 1
+    },
+    "rates": {},
+    "firstCounterAt": 1754542147936,
+    "firstHistogramAt": 1754542151219,
+    "lastCounterAt": 1754542168802,
+    "lastHistogramAt": 1754542168802,
+    "firstMetricAt": 1754542147936,
+    "lastMetricAt": 1754542168802,
+    "period": 1754542160000,
+    "summaries": {
+      "browser.page.FCP.https://homesforhomes.payments2us.com/donate": {
+        "min": 2976,
+        "max": 2976,
+        "count": 1,
+        "mean": 2976,
+        "p50": 2951.9,
+        "median": 2951.9,
+        "p75": 2951.9,
+        "p90": 2951.9,
+        "p95": 2951.9,
+        "p99": 2951.9,
+        "p999": 2951.9
+      },
+      "browser.page.TTFB.https://homesforhomes.payments2us.com/donate": {
+        "min": 2455.1,
+        "max": 2455.1,
+        "count": 1,
+        "mean": 2455.1,
+        "p50": 2465.6,
+        "median": 2465.6,
+        "p75": 2465.6,
+        "p90": 2465.6,
+        "p95": 2465.6,
+        "p99": 2465.6,
+        "p999": 2465.6
+      },
+      "browser.page.LCP.https://homesforhomes.payments2us.com/donate": {
+        "min": 5104,
+        "max": 5104,
+        "count": 1,
+        "mean": 5104,
+        "p50": 5065.6,
+        "median": 5065.6,
+        "p75": 5065.6,
+        "p90": 5065.6,
+        "p95": 5065.6,
+        "p99": 5065.6,
+        "p999": 5065.6
+      },
+      "browser.page.FID.https://homesforhomes.payments2us.com/donate": {
+        "min": 2.1,
+        "max": 2.1,
+        "count": 1,
+        "mean": 2.1,
+        "p50": 2.1,
+        "median": 2.1,
+        "p75": 2.1,
+        "p90": 2.1,
+        "p95": 2.1,
+        "p99": 2.1,
+        "p999": 2.1
+      },
+      "browser.page.INP.https://homesforhomes.payments2us.com/donate": {
+        "min": 24,
+        "max": 24,
+        "count": 1,
+        "mean": 24,
+        "p50": 23.8,
+        "median": 23.8,
+        "p75": 23.8,
+        "p90": 23.8,
+        "p95": 23.8,
+        "p99": 23.8,
+        "p999": 23.8
+      },
+      "browser.page.CLS.https://homesforhomes.payments2us.com/donate": {
+        "min": 0.2,
+        "max": 0.2,
+        "count": 1,
+        "mean": 0.2,
+        "p50": 0.2,
+        "median": 0.2,
+        "p75": 0.2,
+        "p90": 0.2,
+        "p95": 0.2,
+        "p99": 0.2,
+        "p999": 0.2
+      },
+      "vusers.session_length": {
+        "min": 20865.9,
+        "max": 20865.9,
+        "count": 1,
+        "mean": 20865.9,
+        "p50": 20958.1,
+        "median": 20958.1,
+        "p75": 20958.1,
+        "p90": 20958.1,
+        "p95": 20958.1,
+        "p99": 20958.1,
+        "p999": 20958.1
+      }
+    },
+    "histograms": {
+      "browser.page.FCP.https://homesforhomes.payments2us.com/donate": {
+        "min": 2976,
+        "max": 2976,
+        "count": 1,
+        "mean": 2976,
+        "p50": 2951.9,
+        "median": 2951.9,
+        "p75": 2951.9,
+        "p90": 2951.9,
+        "p95": 2951.9,
+        "p99": 2951.9,
+        "p999": 2951.9
+      },
+      "browser.page.TTFB.https://homesforhomes.payments2us.com/donate": {
+        "min": 2455.1,
+        "max": 2455.1,
+        "count": 1,
+        "mean": 2455.1,
+        "p50": 2465.6,
+        "median": 2465.6,
+        "p75": 2465.6,
+        "p90": 2465.6,
+        "p95": 2465.6,
+        "p99": 2465.6,
+        "p999": 2465.6
+      },
+      "browser.page.LCP.https://homesforhomes.payments2us.com/donate": {
+        "min": 5104,
+        "max": 5104,
+        "count": 1,
+        "mean": 5104,
+        "p50": 5065.6,
+        "median": 5065.6,
+        "p75": 5065.6,
+        "p90": 5065.6,
+        "p95": 5065.6,
+        "p99": 5065.6,
+        "p999": 5065.6
+      },
+      "browser.page.FID.https://homesforhomes.payments2us.com/donate": {
+        "min": 2.1,
+        "max": 2.1,
+        "count": 1,
+        "mean": 2.1,
+        "p50": 2.1,
+        "median": 2.1,
+        "p75": 2.1,
+        "p90": 2.1,
+        "p95": 2.1,
+        "p99": 2.1,
+        "p999": 2.1
+      },
+      "browser.page.INP.https://homesforhomes.payments2us.com/donate": {
+        "min": 24,
+        "max": 24,
+        "count": 1,
+        "mean": 24,
+        "p50": 23.8,
+        "median": 23.8,
+        "p75": 23.8,
+        "p90": 23.8,
+        "p95": 23.8,
+        "p99": 23.8,
+        "p999": 23.8
+      },
+      "browser.page.CLS.https://homesforhomes.payments2us.com/donate": {
+        "min": 0.2,
+        "max": 0.2,
+        "count": 1,
+        "mean": 0.2,
+        "p50": 0.2,
+        "median": 0.2,
+        "p75": 0.2,
+        "p90": 0.2,
+        "p95": 0.2,
+        "p99": 0.2,
+        "p999": 0.2
+      },
+      "vusers.session_length": {
+        "min": 20865.9,
+        "max": 20865.9,
+        "count": 1,
+        "mean": 20865.9,
+        "p50": 20958.1,
+        "median": 20958.1,
+        "p75": 20958.1,
+        "p90": 20958.1,
+        "p95": 20958.1,
+        "p99": 20958.1,
+        "p999": 20958.1
+      }
+    }
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.0": 1,
+        "vusers.created": 1
+      },
+      "rates": {},
+      "firstCounterAt": 1754542147936,
+      "lastCounterAt": 1754542147936,
+      "firstMetricAt": 1754542147936,
+      "lastMetricAt": 1754542147936,
+      "period": "1754542140000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "browser.page.codes.200": 68,
+        "browser.http_requests": 72,
+        "browser.page.codes.401": 3,
+        "browser.page.codes.302": 1
+      },
+      "rates": {},
+      "firstCounterAt": 1754542150699,
+      "firstHistogramAt": 1754542151219,
+      "lastCounterAt": 1754542158405,
+      "lastHistogramAt": 1754542153446,
+      "firstMetricAt": 1754542150699,
+      "lastMetricAt": 1754542158405,
+      "period": "1754542150000",
+      "summaries": {
+        "browser.page.FCP.https://homesforhomes.payments2us.com/donate": {
+          "min": 2976,
+          "max": 2976,
+          "count": 1,
+          "mean": 2976,
+          "p50": 2951.9,
+          "median": 2951.9,
+          "p75": 2951.9,
+          "p90": 2951.9,
+          "p95": 2951.9,
+          "p99": 2951.9,
+          "p999": 2951.9
+        },
+        "browser.page.TTFB.https://homesforhomes.payments2us.com/donate": {
+          "min": 2455.1,
+          "max": 2455.1,
+          "count": 1,
+          "mean": 2455.1,
+          "p50": 2465.6,
+          "median": 2465.6,
+          "p75": 2465.6,
+          "p90": 2465.6,
+          "p95": 2465.6,
+          "p99": 2465.6,
+          "p999": 2465.6
+        },
+        "browser.page.LCP.https://homesforhomes.payments2us.com/donate": {
+          "min": 5104,
+          "max": 5104,
+          "count": 1,
+          "mean": 5104,
+          "p50": 5065.6,
+          "median": 5065.6,
+          "p75": 5065.6,
+          "p90": 5065.6,
+          "p95": 5065.6,
+          "p99": 5065.6,
+          "p999": 5065.6
+        },
+        "browser.page.FID.https://homesforhomes.payments2us.com/donate": {
+          "min": 2.1,
+          "max": 2.1,
+          "count": 1,
+          "mean": 2.1,
+          "p50": 2.1,
+          "median": 2.1,
+          "p75": 2.1,
+          "p90": 2.1,
+          "p95": 2.1,
+          "p99": 2.1,
+          "p999": 2.1
+        }
+      },
+      "histograms": {
+        "browser.page.FCP.https://homesforhomes.payments2us.com/donate": {
+          "min": 2976,
+          "max": 2976,
+          "count": 1,
+          "mean": 2976,
+          "p50": 2951.9,
+          "median": 2951.9,
+          "p75": 2951.9,
+          "p90": 2951.9,
+          "p95": 2951.9,
+          "p99": 2951.9,
+          "p999": 2951.9
+        },
+        "browser.page.TTFB.https://homesforhomes.payments2us.com/donate": {
+          "min": 2455.1,
+          "max": 2455.1,
+          "count": 1,
+          "mean": 2455.1,
+          "p50": 2465.6,
+          "median": 2465.6,
+          "p75": 2465.6,
+          "p90": 2465.6,
+          "p95": 2465.6,
+          "p99": 2465.6,
+          "p999": 2465.6
+        },
+        "browser.page.LCP.https://homesforhomes.payments2us.com/donate": {
+          "min": 5104,
+          "max": 5104,
+          "count": 1,
+          "mean": 5104,
+          "p50": 5065.6,
+          "median": 5065.6,
+          "p75": 5065.6,
+          "p90": 5065.6,
+          "p95": 5065.6,
+          "p99": 5065.6,
+          "p999": 5065.6
+        },
+        "browser.page.FID.https://homesforhomes.payments2us.com/donate": {
+          "min": 2.1,
+          "max": 2.1,
+          "count": 1,
+          "mean": 2.1,
+          "p50": 2.1,
+          "median": 2.1,
+          "p75": 2.1,
+          "p90": 2.1,
+          "p95": 2.1,
+          "p99": 2.1,
+          "p999": 2.1
+        }
+      }
+    },
+    {
+      "counters": {
+        "browser.page.codes.200": 62,
+        "browser.http_requests": 62,
+        "vusers.failed": 0,
+        "vusers.completed": 1
+      },
+      "rates": {},
+      "firstCounterAt": 1754542166591,
+      "firstHistogramAt": 1754542168193,
+      "lastCounterAt": 1754542168802,
+      "lastHistogramAt": 1754542168802,
+      "firstMetricAt": 1754542166591,
+      "lastMetricAt": 1754542168802,
+      "period": "1754542160000",
+      "summaries": {
+        "browser.page.INP.https://homesforhomes.payments2us.com/donate": {
+          "min": 24,
+          "max": 24,
+          "count": 1,
+          "mean": 24,
+          "p50": 23.8,
+          "median": 23.8,
+          "p75": 23.8,
+          "p90": 23.8,
+          "p95": 23.8,
+          "p99": 23.8,
+          "p999": 23.8
+        },
+        "browser.page.CLS.https://homesforhomes.payments2us.com/donate": {
+          "min": 0.2,
+          "max": 0.2,
+          "count": 1,
+          "mean": 0.2,
+          "p50": 0.2,
+          "median": 0.2,
+          "p75": 0.2,
+          "p90": 0.2,
+          "p95": 0.2,
+          "p99": 0.2,
+          "p999": 0.2
+        },
+        "vusers.session_length": {
+          "min": 20865.9,
+          "max": 20865.9,
+          "count": 1,
+          "mean": 20865.9,
+          "p50": 20958.1,
+          "median": 20958.1,
+          "p75": 20958.1,
+          "p90": 20958.1,
+          "p95": 20958.1,
+          "p99": 20958.1,
+          "p999": 20958.1
+        }
+      },
+      "histograms": {
+        "browser.page.INP.https://homesforhomes.payments2us.com/donate": {
+          "min": 24,
+          "max": 24,
+          "count": 1,
+          "mean": 24,
+          "p50": 23.8,
+          "median": 23.8,
+          "p75": 23.8,
+          "p90": 23.8,
+          "p95": 23.8,
+          "p99": 23.8,
+          "p999": 23.8
+        },
+        "browser.page.CLS.https://homesforhomes.payments2us.com/donate": {
+          "min": 0.2,
+          "max": 0.2,
+          "count": 1,
+          "mean": 0.2,
+          "p50": 0.2,
+          "median": 0.2,
+          "p75": 0.2,
+          "p90": 0.2,
+          "p95": 0.2,
+          "p99": 0.2,
+          "p999": 0.2
+        },
+        "vusers.session_length": {
+          "min": 20865.9,
+          "max": 20865.9,
+          "count": 1,
+          "mean": 20865.9,
+          "p50": 20958.1,
+          "median": 20958.1,
+          "p75": 20958.1,
+          "p90": 20958.1,
+          "p95": 20958.1,
+          "p99": 20958.1,
+          "p999": 20958.1
+        }
+      }
+    }
+  ]
+}
